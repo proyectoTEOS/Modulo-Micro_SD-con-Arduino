@@ -1,9 +1,9 @@
-# Modulo-Micro_SD-con-Arduino
+# Modulo Micro_SD con Arduino
 Guardaremos datos en un archivo desde una memoria micro-sd con Arduino.
 
 ### Requisitos
 - Tener el IDE de [Arduino](https://www.arduino.cc/en/Main/Software) (o el de tu preferencia) con la versión más actual
-- Contar con las librería [SD](https://github.com/arduino-libraries/SD)
+- Contar con la librería [SD](https://github.com/arduino-libraries/SD)
 - Tener el material para hacer el proyecto
 
 ### Código
